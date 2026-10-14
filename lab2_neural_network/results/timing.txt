@@ -1,0 +1,1 @@
+Median forward time (100 runs): 0.088100 ms\nMedian backward time (100 runs): 0.117100 ms\nTiming uses a width-64 network and batch size 32.\n
