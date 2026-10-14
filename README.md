@@ -1,1 +1,0 @@
-# lab2_neural_network
